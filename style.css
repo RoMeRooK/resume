@@ -1,0 +1,14 @@
+.main{
+	width:50%;
+	background-color:#c45e45;
+	display:flex;
+}
+.left{
+	width:60%;
+	border:3px solid #2df;
+}
+.right{
+	width:70%;
+	border:3px solid #00f;
+}
+
