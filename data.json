@@ -1,9 +1,46 @@
 {
 	"details":{
 		"name":"anusha",
-		"age":"15",
+		"image":"icons8-person-female-40.png",
 		"phone":"9542085769",
 		"email":"yamarthianusha567@gmail.com",
 		"study":"btech"
+	},
+	"education":[
+		{
+			"course":"B.Tech",
+			"college":"MIC COLLEGE",
+			"branch":"CSE",
+			"per":"70"
+		},
+	    {
+			"course":"Inter",
+			"college":"Siddhardha COLLEGE",
+			"branch":"M.P.C",
+			"per":"88"
+			},
+          {
+			"course":"SSC",
+			"college":"Z.P.H.School",
+			"branch":"general",
+			"per":"90"
+			}
+	],
+	"skills":[
+		{
+			"title":"Programming Language",
+			"output":[
+				"c","c++","java","python"
+			]
+		},
+		{
+			"title":"Operating Systems",
+			"output":[
+				"Windows","Linex","Mac"
+			]
+		}
+	],
+	"carrier":{
+		"co":"To associate with organization,utilize my technical skills to growth of our company"
 	}
-}
+	}
